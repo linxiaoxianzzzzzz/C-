@@ -1,0 +1,6 @@
+C:\C#\Embed\bin\Debug\Embed.dll
+C:\C#\Embed\bin\Debug\Embed.pdb
+C:\C#\Embed\obj\Debug\Embed.csproj.AssemblyReference.cache
+C:\C#\Embed\obj\Debug\Embed.csproj.CoreCompileInputs.cache
+C:\C#\Embed\obj\Debug\Embed.dll
+C:\C#\Embed\obj\Debug\Embed.pdb

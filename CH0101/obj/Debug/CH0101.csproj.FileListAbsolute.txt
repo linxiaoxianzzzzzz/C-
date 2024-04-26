@@ -1,0 +1,7 @@
+C:\C#\CH0101\bin\Debug\CH0101.exe.config
+C:\C#\CH0101\bin\Debug\CH0101.exe
+C:\C#\CH0101\bin\Debug\CH0101.pdb
+C:\C#\CH0101\obj\Debug\CH0101.csproj.AssemblyReference.cache
+C:\C#\CH0101\obj\Debug\CH0101.csproj.CoreCompileInputs.cache
+C:\C#\CH0101\obj\Debug\CH0101.exe
+C:\C#\CH0101\obj\Debug\CH0101.pdb

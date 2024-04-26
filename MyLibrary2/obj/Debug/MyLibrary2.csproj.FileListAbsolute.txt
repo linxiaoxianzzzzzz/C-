@@ -1,0 +1,6 @@
+C:\C#\MyLibrary2\bin\Debug\MyLibrary2.dll
+C:\C#\MyLibrary2\bin\Debug\MyLibrary2.pdb
+C:\C#\MyLibrary2\obj\Debug\MyLibrary2.csproj.AssemblyReference.cache
+C:\C#\MyLibrary2\obj\Debug\MyLibrary2.csproj.CoreCompileInputs.cache
+C:\C#\MyLibrary2\obj\Debug\MyLibrary2.dll
+C:\C#\MyLibrary2\obj\Debug\MyLibrary2.pdb

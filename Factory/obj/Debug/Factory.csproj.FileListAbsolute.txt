@@ -1,0 +1,6 @@
+C:\C#\Factory\bin\Debug\Factory.dll
+C:\C#\Factory\bin\Debug\Factory.pdb
+C:\C#\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+C:\C#\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\C#\Factory\obj\Debug\Factory.dll
+C:\C#\Factory\obj\Debug\Factory.pdb

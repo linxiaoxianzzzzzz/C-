@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Inherit.Contract">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inherit.Employee">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inherit.FullTime">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="Inherit.Employee" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="2.373" />
+        <Point X="3.75" Y="2.558" />
+        <Point X="5.938" Y="2.558" />
+        <Point X="5.938" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FullTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inherit.Sales">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAABAAA=</HashCode>
+      <FileName>Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inherit.Wai">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Wai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
